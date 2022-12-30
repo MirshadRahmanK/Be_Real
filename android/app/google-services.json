@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409534847605",
+    "project_id": "bereal-c2fcd",
+    "storage_bucket": "bereal-c2fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409534847605:android:3b57efec779dad6507b63c",
+        "android_client_info": {
+          "package_name": "com.example.be_real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409534847605-vl0k9h4e12ah3uh35jhgnkreop7pdah2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhDYUcfqdzhUsDlAB07LnsLLBU--MmkmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409534847605-vl0k9h4e12ah3uh35jhgnkreop7pdah2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
